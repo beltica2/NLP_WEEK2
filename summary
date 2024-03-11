@@ -1,0 +1,7 @@
+Text Preprocessing (text tokenization, stopwords, stemming, lemmatization ...)
+
+Text Feature Engineering (Bag of words, One-Hot Representation, TF-IDF ..)
+
+Sentimental Analysis (Sentiment analysis, text classification ...)
+
+Text Similarity (jaccard similarity, cosine similarity, Word embedding[Word2vec] ...)
